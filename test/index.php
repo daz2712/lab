@@ -1,3 +1,8 @@
-<?php
-print "ESTE ES MI PRIMER CODIGO PHP . LA VERSION DE PHP ES:" . PHP_VERSION . "\n";
-?>
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <p>Hola mundo</p>
+ </body>
+</html>
