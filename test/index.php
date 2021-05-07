@@ -1,0 +1,3 @@
+<?php
+print " THIS IS  A DEMO FOR THE EXAM EX180 ...HOPE PASS IT" . PHP_VERSION . "\n";
+?>
